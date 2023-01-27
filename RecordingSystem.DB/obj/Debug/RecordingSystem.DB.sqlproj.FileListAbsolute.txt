@@ -1,6 +1,0 @@
-C:\Users\Святослав\source\repos\RecordingSystem.DB\RecordingSystem.DB\bin\Debug\RecordingSystem.DB.dacpac
-C:\Users\Святослав\source\repos\RecordingSystem.DB\RecordingSystem.DB\bin\Debug\RecordingSystem.DB.dll
-C:\Users\Святослав\source\repos\RecordingSystem.DB\RecordingSystem.DB\bin\Debug\RecordingSystem.DB.pdb
-C:\Users\Святослав\source\repos\RecordingSystem.DB\RecordingSystem.DB\obj\Debug\RecordingSystem.DB.sqlproj.AssemblyReference.cache
-C:\Users\Святослав\source\repos\RecordingSystem.DB\RecordingSystem.DB\obj\Debug\RecordingSystem.DB.dll
-C:\Users\Святослав\source\repos\RecordingSystem.DB\RecordingSystem.DB\obj\Debug\RecordingSystem.DB.pdb
