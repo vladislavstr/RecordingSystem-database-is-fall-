@@ -80,5 +80,6 @@
     <Build Include="dbo\Stored Procedures\GetAllDoctorBySpecialization.sql" />
     <Build Include="dbo\Stored Procedures\GetAllServiceByDoctor.sql" />
     <Build Include="dbo\Stored Procedures\GetAllDoctorByServices.sql" />
+    <Build Include="dbo\Stored Procedures\GetAllDoctors.sql" />
   </ItemGroup>
 </Project>
