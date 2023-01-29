@@ -4,7 +4,7 @@ using Microsoft.Data.SqlClient;
 using System.Data;
 
 
-namespace RecordingSystem.DAL
+namespace RecordingSystem.DAL.Repositories
 {
     public class DoctorRepository
     {
@@ -13,7 +13,7 @@ namespace RecordingSystem.DAL
             using (var sqlConnection = new SqlConnection(Options.sqlConnection))
             {
                 sqlConnection.Open();
-                return sqlConnection.Query<DoctorDto>(StoredProcedures.GetAllDoctors, 
+                return sqlConnection.Query<DoctorDto>(StoredNamesProcedures.GetAllDoctors,
                     commandType: CommandType.StoredProcedure).ToList();
             }
         }
