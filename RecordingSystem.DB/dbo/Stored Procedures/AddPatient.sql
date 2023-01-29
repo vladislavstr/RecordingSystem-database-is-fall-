@@ -5,7 +5,7 @@
 	@Email nvarchar(30),
 	@StatusId int,
 	@Male bit,
-	@Birthday date
+	@Birthday nvarchar(20)
 AS
 INSERT INTO dbo.[Patient]
 (
